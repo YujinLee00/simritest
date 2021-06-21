@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.simritest.simrisimri">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/iicon"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+
+        <activity android:name="com.simritest.simrisimri.love_fi9Activity" />
+        <activity android:name="com.simritest.simrisimri.love_fi8Activity" />
+        <activity android:name="com.simritest.simrisimri.love_fi7Activity" />
+        <activity android:name="com.simritest.simrisimri.love_fi4Activity" />
+        <activity android:name="com.simritest.simrisimri.love_fi3Activity" />
+        <activity android:name="com.simritest.simrisimri.love_fi2Activity" />
+        <activity android:name="com.simritest.simrisimri.lovefi10Activity" />
+        <activity android:name="com.simritest.simrisimri.lovefi9Activity" />
+        <activity android:name="com.simritest.simrisimri.lovefi8Activity" />
+        <activity android:name="com.simritest.simrisimri.lovefi7Activity" />
+        <activity android:name="com.simritest.simrisimri.lovefi6Activity" />
+        <activity android:name="com.simritest.simrisimri.lovefi5Activity" />
+        <activity android:name="com.simritest.simrisimri.lovefi4Activity" />
+        <activity android:name="com.simritest.simrisimri.lovefi3Activity" />
+        <activity android:name="com.simritest.simrisimri.lovefi2Activity" />
+        <activity android:name="com.simritest.simrisimri.lovefiActivity" />
+        <activity android:name="com.simritest.simrisimri.love3Activity" />
+        <activity android:name="com.simritest.simrisimri.love10Activity" />
+        <activity android:name="com.simritest.simrisimri.love9Activity" />
+        <activity android:name="com.simritest.simrisimri.love8Activity" />
+        <activity android:name="com.simritest.simrisimri.love7Activity" />
+        <activity android:name="com.simritest.simrisimri.love6Activity" />
+        <activity android:name="com.simritest.simrisimri.love5Activity" />
+        <activity android:name="com.simritest.simrisimri.love4Activity" />
+        <activity android:name="com.simritest.simrisimri.love2Activity" />
+        <activity android:name="com.simritest.simrisimri.loveActivity" />
+        <activity android:name="com.simritest.simrisimri.test_fi6Activity" />
+        <activity android:name="com.simritest.simrisimri.test_fi5Activity" />
+        <activity android:name="com.simritest.simrisimri.test_fi4Activity" />
+        <activity android:name="com.simritest.simrisimri.test_fi2Activity" />
+        <activity android:name="com.simritest.simrisimri.test_fiActivity" />
+        <activity android:name="com.simritest.simrisimri.testfi10Activity" />
+        <activity android:name="com.simritest.simrisimri.testfi9Activity" />
+        <activity android:name="com.simritest.simrisimri.testfi8Activity" />
+        <activity android:name="com.simritest.simrisimri.testfi7Activity" />
+        <activity android:name="com.simritest.simrisimri.testfi6Activity" />
+        <activity android:name="com.simritest.simrisimri.testfi5Activity" />
+        <activity android:name="com.simritest.simrisimri.testfi4Activity" />
+        <activity android:name="com.simritest.simrisimri.testfi3Activity" />
+        <activity android:name="com.simritest.simrisimri.testfi2Activity" />
+        <activity android:name="com.simritest.simrisimri.testfiActivity" />
+        <activity android:name="com.simritest.simrisimri.test10Activity" />
+        <activity android:name="com.simritest.simrisimri.test9Activity" />
+        <activity android:name="com.simritest.simrisimri.test8Activity" />
+        <activity android:name="com.simritest.simrisimri.test7Activity" />
+        <activity android:name="com.simritest.simrisimri.test6Activity" />
+        <activity android:name="com.simritest.simrisimri.test5Activity" />
+        <activity android:name="com.simritest.simrisimri.test4Activity" />
+        <activity android:name="com.simritest.simrisimri.test3Activity" />
+        <activity android:name="com.simritest.simrisimri.test2Activity" />
+        <activity android:name="com.simritest.simrisimri.testActivity" />
+        <activity android:name="com.simritest.simrisimri.psyfi10Activity" />
+        <activity android:name="com.simritest.simrisimri.psyfi9Activity" />
+        <activity android:name="com.simritest.simrisimri.psyfi8Activity" />
+        <activity android:name="com.simritest.simrisimri.psyfi7Activity" />
+        <activity android:name="com.simritest.simrisimri.psyfi6Activity" />
+        <activity android:name="com.simritest.simrisimri.psyfi5Activity" />
+        <activity android:name="com.simritest.simrisimri.psyfi4Activity" />
+        <activity android:name="com.simritest.simrisimri.psyfi3Activity" />
+        <activity android:name="com.simritest.simrisimri.psyfi2Activity" />
+        <activity android:name="com.simritest.simrisimri.psyfiActivity" />
+        <activity android:name="com.simritest.simrisimri.psy10Activity" />
+        <activity android:name="com.simritest.simrisimri.psy9Activity" />
+        <activity android:name="com.simritest.simrisimri.psy8Activity" />
+        <activity android:name="com.simritest.simrisimri.psy7Activity" />
+        <activity android:name="com.simritest.simrisimri.psy6Activity" />
+        <activity android:name="com.simritest.simrisimri.psy5Activity" />
+        <activity android:name="com.simritest.simrisimri.psy4Activity" />
+        <activity android:name="com.simritest.simrisimri.psy3Activity" />
+        <activity android:name="com.simritest.simrisimri.psy2Activity" />
+        <activity android:name="com.simritest.simrisimri.psyActivity" />
+        <activity android:name="com.simritest.simrisimri.sub3Activity" />
+        <activity android:name="com.simritest.simrisimri.sub2Activity" />
+        <activity android:name="com.simritest.simrisimri.subActivity" />
+        <activity android:name="com.simritest.simrisimri.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-2026627377379906~6648078646"/>
+    </application>
+
+</manifest>

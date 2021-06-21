@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "43521019459",
+    "firebase_url": "https://simritest-bd179.firebaseio.com",
+    "project_id": "simritest-bd179",
+    "storage_bucket": "simritest-bd179.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43521019459:android:98f4d50b41fec7f7808ef6",
+        "android_client_info": {
+          "package_name": "com.simritest.simrisimri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43521019459-cq277t0e8snm54usl2s2jk66ehni30j3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.simritest.simrisimri",
+            "certificate_hash": "1c9939f72874d6390a9e14f4c8e0c1c6d0f5957a"
+          }
+        },
+        {
+          "client_id": "43521019459-c31s2v4koihbr8g0c5k5imvbl93pfsao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUtp4Y_D_CLQ0OPfa8McXeYOXFtmtIeQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43521019459-c31s2v4koihbr8g0c5k5imvbl93pfsao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
